@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <plists>
+        <plist>daoguang.plist</plist>
+    </plists>
+    <animations>
+        <animation>
+            <name>daoguang</name>
+            <delay>0.04</delay>
+            <flipX>false</flipX>
+            <flipY>false</flipY>
+            <spriteFrame>daoguang_01.png</spriteFrame>
+            <spriteFrame>daoguang_02.png</spriteFrame>
+            <spriteFrame>daoguang_03.png</spriteFrame>
+            <spriteFrame>daoguang_04.png</spriteFrame>
+            <spriteFrame>daoguang_05.png</spriteFrame>
+            <spriteFrame>daoguang_06.png</spriteFrame>
+            <spriteFrame>daoguang_07.png</spriteFrame>
+            <spriteFrame>daoguang_08.png</spriteFrame>
+            <spriteFrame>daoguang_09.png</spriteFrame>
+            <spriteFrame>daoguang_10.png</spriteFrame>
+        </animation>
+    </animations>
+</root>

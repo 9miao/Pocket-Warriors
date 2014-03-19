@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <plists>
+        <plist>ice.plist</plist>
+    </plists>
+    <animations>
+        <animation>
+            <name>iceAni</name>
+            <delay>0.08</delay>
+            <flipX>false</flipX>
+            <flipY>false</flipY>
+            <spriteFrame>ice_00.png</spriteFrame>
+            <spriteFrame>ice_01.png</spriteFrame>
+            <spriteFrame>ice_02.png</spriteFrame>
+            <spriteFrame>ice_03.png</spriteFrame>
+            <spriteFrame>ice_04.png</spriteFrame>
+            <spriteFrame>ice_05.png</spriteFrame>
+            <spriteFrame>ice_06.png</spriteFrame>
+            <spriteFrame>ice_07.png</spriteFrame>
+            <spriteFrame>ice_08.png</spriteFrame>
+            <spriteFrame>ice_09.png</spriteFrame>
+            <spriteFrame>ice_10.png</spriteFrame>
+            <spriteFrame>ice_11.png</spriteFrame>
+            <spriteFrame>ice_12.png</spriteFrame>
+            <spriteFrame>ice_13.png</spriteFrame>
+            <spriteFrame>ice_14.png</spriteFrame>
+            <spriteFrame>ice_15.png</spriteFrame>
+            <spriteFrame>ice_16.png</spriteFrame>
+            <spriteFrame>ice_17.png</spriteFrame>
+            <spriteFrame>ice_18.png</spriteFrame>
+            <spriteFrame>ice_19.png</spriteFrame>
+            <spriteFrame>ice_20.png</spriteFrame>
+            <spriteFrame>ice_21.png</spriteFrame>
+            <spriteFrame>ice_22.png</spriteFrame>
+            <spriteFrame>ice_23.png</spriteFrame>
+            <spriteFrame>ice_24.png</spriteFrame>
+        </animation>
+    </animations>
+</root>

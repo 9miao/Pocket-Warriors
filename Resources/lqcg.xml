@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <plists>
+        <plist>lqcg.plist</plist>
+    </plists>
+    <animations>
+        <animation>
+            <name>lqcg</name>
+            <delay>0.125</delay>
+            <flipX>false</flipX>
+            <flipY>false</flipY>
+            <spriteFrame>lqcg_00.png</spriteFrame>
+            <spriteFrame>lqcg_01.png</spriteFrame>
+            <spriteFrame>lqcg_02.png</spriteFrame>
+            <spriteFrame>lqcg_03.png</spriteFrame>
+            <spriteFrame>lqcg_04.png</spriteFrame>
+            <spriteFrame>lqcg_05.png</spriteFrame>
+            <spriteFrame>lqcg_06.png</spriteFrame>
+            <spriteFrame>lqcg_07.png</spriteFrame>
+        </animation>
+    </animations>
+</root>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <plists>
+        <plist>touch_mouse.plist</plist>
+    </plists>
+    <animations>
+        <animation>
+            <name>loackAni</name>
+            <delay>0.06</delay>
+            <flipX>false</flipX>
+            <flipY>false</flipY>
+            <spriteFrame>touch_mouse_01.png</spriteFrame>
+            <spriteFrame>touch_mouse_02.png</spriteFrame>
+            <spriteFrame>touch_mouse_03.png</spriteFrame>
+            <spriteFrame>touch_mouse_04.png</spriteFrame>
+            <spriteFrame>touch_mouse_05.png</spriteFrame>
+            <spriteFrame>touch_mouse_06.png</spriteFrame>
+            <spriteFrame>touch_mouse_07.png</spriteFrame>
+            <spriteFrame>touch_mouse_08.png</spriteFrame>
+            <spriteFrame>touch_mouse_09.png</spriteFrame>
+            <spriteFrame>touch_mouse_10.png</spriteFrame>
+            <spriteFrame>touch_mouse_11.png</spriteFrame>
+            <spriteFrame>touch_mouse_12.png</spriteFrame>
+        </animation>
+    </animations>
+</root>

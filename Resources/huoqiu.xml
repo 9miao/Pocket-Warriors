@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <plists>
+        <plist>huoqiu.plist</plist>
+    </plists>
+    <animations>
+        <animation>
+            <name>huoqiu</name>
+            <delay>0.1</delay>
+            <flipX>false</flipX>
+            <flipY>false</flipY>
+            <spriteFrame>hqg_00.png</spriteFrame>
+            <spriteFrame>hqg_01.png</spriteFrame>
+            <spriteFrame>hqg_02.png</spriteFrame>
+            <spriteFrame>hqg_03.png</spriteFrame>
+            <spriteFrame>hqg_04.png</spriteFrame>
+            <spriteFrame>hqg_05.png</spriteFrame>
+            <spriteFrame>hqg_06.png</spriteFrame>
+            <spriteFrame>hqg_07.png</spriteFrame>
+            <spriteFrame>hqg_08.png</spriteFrame>
+            <spriteFrame>hqg_09.png</spriteFrame>
+        </animation>
+    </animations>
+</root>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <plists>
+        <plist>wenzi.plist</plist>
+    </plists>
+    <animations>
+        <animation>
+            <name>baoji</name>
+            <delay>0.125</delay>
+            <flipX>false</flipX>
+            <flipY>false</flipY>
+            <spriteFrame>baoji_01.png</spriteFrame>
+            <spriteFrame>baoji_02.png</spriteFrame>
+            <spriteFrame>baoji_03.png</spriteFrame>
+            <spriteFrame>baoji_04.png</spriteFrame>
+        </animation>
+        <animation>
+            <name>gedang</name>
+            <delay>0.125</delay>
+            <flipX>false</flipX>
+            <flipY>false</flipY>
+            <spriteFrame>gedang_01.png</spriteFrame>
+            <spriteFrame>gedang_02.png</spriteFrame>
+            <spriteFrame>gedang_03.png</spriteFrame>
+            <spriteFrame>gedang_04.png</spriteFrame>
+        </animation>
+        <animation>
+            <name>shanbi</name>
+            <delay>0.125</delay>
+            <flipX>false</flipX>
+            <flipY>false</flipY>
+            <spriteFrame>shanbi_01.png</spriteFrame>
+            <spriteFrame>shanbi_02.png</spriteFrame>
+            <spriteFrame>shanbi_03.png</spriteFrame>
+            <spriteFrame>shanbi_04.png</spriteFrame>
+        </animation>
+    </animations>
+</root>

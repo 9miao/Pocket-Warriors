@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <plists>
+        <plist>dihuo.plist</plist>
+    </plists>
+    <animations>
+        <animation>
+            <name>dihuoAni</name>
+            <delay>0.1</delay>
+            <flipX>false</flipX>
+            <flipY>false</flipY>
+            <spriteFrame>dihuo_00000.png</spriteFrame>
+            <spriteFrame>dihuo_00003.png</spriteFrame>
+            <spriteFrame>dihuo_00006.png</spriteFrame>
+            <spriteFrame>dihuo_00009.png</spriteFrame>
+            <spriteFrame>dihuo_00012.png</spriteFrame>
+            <spriteFrame>dihuo_00015.png</spriteFrame>
+            <spriteFrame>dihuo_00018.png</spriteFrame>
+            <spriteFrame>dihuo_00021.png</spriteFrame>
+            <spriteFrame>dihuo_00024.png</spriteFrame>
+            <spriteFrame>dihuo_00027.png</spriteFrame>
+        </animation>
+    </animations>
+</root>

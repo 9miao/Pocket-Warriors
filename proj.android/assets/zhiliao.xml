@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <plists>
+        <plist>zhiliao.plist</plist>
+    </plists>
+    <animations>
+        <animation>
+            <name>zhiliaoani</name>
+            <delay>0.04</delay>
+            <flipX>false</flipX>
+            <flipY>false</flipY>
+            <spriteFrame>zhiliao_l_00001.png</spriteFrame>
+            <spriteFrame>zhiliao_l_00002.png</spriteFrame>
+            <spriteFrame>zhiliao_l_00003.png</spriteFrame>
+            <spriteFrame>zhiliao_l_00004.png</spriteFrame>
+            <spriteFrame>zhiliao_l_00005.png</spriteFrame>
+            <spriteFrame>zhiliao_l_00006.png</spriteFrame>
+            <spriteFrame>zhiliao_l_00007.png</spriteFrame>
+            <spriteFrame>zhiliao_l_00008.png</spriteFrame>
+            <spriteFrame>zhiliao_l_00009.png</spriteFrame>
+            <spriteFrame>zhiliao_l_00010.png</spriteFrame>
+            <spriteFrame>zhiliao_l_00011.png</spriteFrame>
+            <spriteFrame>zhiliao_l_00012.png</spriteFrame>
+            <spriteFrame>zhiliao_l_00013.png</spriteFrame>
+            <spriteFrame>zhiliao_l_00014.png</spriteFrame>
+            <spriteFrame>zhiliao_l_00015.png</spriteFrame>
+            <spriteFrame>zhiliao_l_00016.png</spriteFrame>
+            <spriteFrame>zhiliao_l_00017.png</spriteFrame>
+            <spriteFrame>zhiliao_l_00018.png</spriteFrame>
+            <spriteFrame>zhiliao_l_00019.png</spriteFrame>
+            <spriteFrame>zhiliao_l_00020.png</spriteFrame>
+            <spriteFrame>zhiliao_l_00021.png</spriteFrame>
+            <spriteFrame>zhiliao_l_00022.png</spriteFrame>
+            <spriteFrame>zhiliao_l_00023.png</spriteFrame>
+            <spriteFrame>zhiliao_l_00024.png</spriteFrame>
+            <spriteFrame>zhiliao_l_00025.png</spriteFrame>
+            <spriteFrame>zhiliao_l_00026.png</spriteFrame>
+        </animation>
+    </animations>
+</root>

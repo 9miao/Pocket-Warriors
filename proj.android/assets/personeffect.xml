@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <plists>
+        <plist>personeffect.plist</plist>
+    </plists>
+    <animations>
+        <animation>
+            <name>effect</name>
+            <delay>0.06</delay>
+            <flipX>false</flipX>
+            <flipY>false</flipY>
+            <spriteFrame>BerserkMode1.png</spriteFrame>
+            <spriteFrame>BerserkMode2.png</spriteFrame>
+            <spriteFrame>BerserkMode3.png</spriteFrame>
+            <spriteFrame>BerserkMode4.png</spriteFrame>
+            <spriteFrame>BerserkMode5.png</spriteFrame>
+            <spriteFrame>BerserkMode6.png</spriteFrame>
+            <spriteFrame>BerserkMode7.png</spriteFrame>
+            <spriteFrame>BerserkMode8.png</spriteFrame>
+            <spriteFrame>BerserkMode9.png</spriteFrame>
+            <spriteFrame>BerserkMode10.png</spriteFrame>
+            <spriteFrame>BerserkMode11.png</spriteFrame>
+            <spriteFrame>BerserkMode13.png</spriteFrame>
+            <spriteFrame>BerserkMode14.png</spriteFrame>
+            <spriteFrame>BerserkMode15.png</spriteFrame>
+            <spriteFrame>BerserkMode16.png</spriteFrame>
+            <spriteFrame>BerserkMode17.png</spriteFrame>
+            <spriteFrame>BerserkMode18.png</spriteFrame>
+            <spriteFrame>BerserkMode19.png</spriteFrame>
+            <spriteFrame>BerserkMode20.png</spriteFrame>
+            <spriteFrame>BerserkMode21.png</spriteFrame>
+            <spriteFrame>BerserkMode22.png</spriteFrame>
+            <spriteFrame>BerserkMode23.png</spriteFrame>
+            <spriteFrame>BerserkMode24.png</spriteFrame>
+            <spriteFrame>BerserkMode25.png</spriteFrame>
+            <spriteFrame>BerserkMode26.png</spriteFrame>
+        </animation>
+    </animations>
+</root>
