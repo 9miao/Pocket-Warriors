@@ -1,4 +1,4 @@
 ####Pocket Warriors
 
-coming soon!
+Pocket Warriors' wiki has been updated!
 
